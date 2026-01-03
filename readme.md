@@ -1,0 +1,3 @@
+# Learning stage of git
+
+This is some instructions...
